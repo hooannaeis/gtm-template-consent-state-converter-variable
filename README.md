@@ -1,1 +1,2 @@
-# gtm-template-consent-state-converter-variable
+# Convert Consent Value to Granted/Denied
+This custom variable helps you to convert your users' consent choice to the syntax required for the native consent integration in Google Tag Manager. Google Tag Manager expects you to indicate whether a given consent (ad_storage, analytics_storage,...) is "granted" or "denied". However, your specific Consent Management Platform might not store consent status in that exact syntax. For easier conversion of CMP-syntax to GTM-synatx, this variable exists
