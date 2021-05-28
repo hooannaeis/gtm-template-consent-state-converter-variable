@@ -1,5 +1,5 @@
-homepage: "https://www.example.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://www.trakken.de"
+documentation: "https://github.com/hooannaeis/gtm-template-consent-state-converter-variable/edit/main/README.md"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: f5b4fab5c668eaa072ba3b13d4a88f27ee6c4891
     changeNotes: Initial release.
