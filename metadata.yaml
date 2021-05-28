@@ -1,5 +1,5 @@
 homepage: "https://www.trakken.de"
 documentation: "https://github.com/hooannaeis/gtm-template-consent-state-converter-variable/edit/main/README.md"
 versions:
-  - sha: f5b4fab5c668eaa072ba3b13d4a88f27ee6c4891
+  - sha: 8989019f34c64787bca34c7c5180699ac795abb6
     changeNotes: Initial release.
