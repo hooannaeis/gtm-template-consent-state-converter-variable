@@ -13,9 +13,9 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Convert Consent Value to Granted/Denied",
+  "displayName": "Convert Consent State to Granted/Denied",
   "categories": ["UTILITY", "TAG_MANAGEMENT"],
-  "description": "This variable template converts any given consent input value to the Google-syntax of \"granted/denied\"",
+  "description": "converts any given input consent state from your CMP's syntax to the GTM-syntax of granted/denied",
   "containerContexts": [
     "WEB"
   ]
